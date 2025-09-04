@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagra-bday&label=Profile%20views&color=0e75b6&style=flat" alt="kushagra-bday" /> </p>
 
-<h3 align="left">About me </h3>
+<h3 align="left">🧑‍💻 About me </h3>
+<p>
 - 🎓 I am currently in 11th standard
 - 📖 Learning new things every single day
 - 💻 Currently making Full Stack Production ready Chat and Video Calling web application
 - 🚩 Backend - MongoDB, Stream, Nodejs, Express js
 - ♨️ Frontend - Reactjs, Tailwind CSS, DaisyUi, Javascript
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kushagra sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushagra sinha" height="30" width="40" /></a>

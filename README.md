@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagra-bday&label=Profile%20views&color=0e75b6&style=flat" alt="kushagra-bday" /> </p>
 
-<h4 align="left>About me</h4>
+<h3 align="left">About me </h3>
 🎓 I am currently in 11th standard
 📖 Learning new things every single day
 💻 Currently making Full Stack Production ready Chat and Video Calling web application

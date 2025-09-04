@@ -5,11 +5,11 @@
 
 <h3 align="left">🧑‍💻 About me </h3>
 <p>
-- 🎓 I am currently in 11th standard
-- 📖 Learning new things every single day
-- 💻 Currently making Full Stack Production ready Chat and Video Calling web application
-- 🚩 Backend - MongoDB, Stream, Nodejs, Express js
-- ♨️ Frontend - Reactjs, Tailwind CSS, DaisyUi, Javascript
+-🎓 I am currently in 11th standard
+-📖 Learning new things every single day
+-💻 Currently making Full Stack Production ready Chat and Video Calling web application
+-🚩 Backend - MongoDB, Stream, Nodejs, Express js
+-♨️ Frontend - Reactjs, Tailwind CSS, DaisyUi, Javascript
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

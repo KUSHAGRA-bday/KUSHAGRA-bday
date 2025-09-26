@@ -7,9 +7,9 @@
   <ul>
 <li>🎓 I am currently in 11th standard </li>
 <li> 📖 Learning new things every single day </li>
-<li>💻 Currently making Full Stack Production ready Chat and Video Calling web application</li>
+<li>💻 Making Full Stack Production ready web applications</li>
 <li> 🚩 Backend - MongoDB, Stream, Nodejs, Express js </li>
-<li> ♨️ Frontend - Reactjs, Tailwind CSS, DaisyUi, Javascript </li>
+<li> ♨️ Frontend - Reactjs, Tailwind CSS, DaisyUi, Javascript or Next.js </li>
     </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

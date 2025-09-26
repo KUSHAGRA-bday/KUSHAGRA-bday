@@ -7,7 +7,7 @@
   <ul>
 <li>🎓 I am currently in 11th standard </li>
 <li> 📖 Learning new things every single day </li>
-<li>💻 Making Full Stack Production ready web applications</li>
+<li>💻 Making learning Full Stack Production ready web application projects</li>
 <li> 🚩 Backend - MongoDB, Stream, Nodejs, Express js </li>
 <li> ♨️ Frontend - Reactjs, Tailwind CSS, DaisyUi, Javascript or Next.js </li>
     </ul>

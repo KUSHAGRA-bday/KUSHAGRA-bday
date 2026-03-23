@@ -5,7 +5,7 @@
 
 <h3 align="left">🧑‍💻 About me </h3>
   <ul>
-<li>🎓 I am currently in 11th standard </li>
+<li>🎓 I am currently in 12th standard </li>
 <li> 📖 Learning new things every single day </li>
 <li>💻 Making learning Full Stack Production ready web application projects</li>
 <li> 🚩 Backend - MongoDB, Stream, Nodejs, Express js, MySQL </li>
